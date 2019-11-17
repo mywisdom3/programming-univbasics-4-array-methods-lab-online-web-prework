@@ -6,8 +6,7 @@ def using_sort(array)
 array.sort(element)
 end
 
-defarray.include?(element)
- using_reverse(array)
+def  using_reverse(array)
 
 end
 
