@@ -8,7 +8,6 @@ end
 
 def  using_reverse(array)
 array.reverse(element)
-
 end
 
 def using_first(array)
